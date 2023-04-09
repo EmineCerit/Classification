@@ -16,20 +16,21 @@ The data set includes information about:
     
 **<span style="color:crimson;">Task Details**
     
-* 1. IMPORTING LIBRARIES AND DATA
-* 2. EXPLORATORY DATA ANALYSIS
-    * 2.1 General Picture
-    * 2.2 Categorical and Numerical Variable Analysis
-    * 2.3 Correlation
+* [1. IMPORTING LIBRARIES AND DATA]
+* [2. EXPLORATORY DATA ANALYSIS]
+    * [2.1 General Picture](#sub_section-2.1)
+    * [2.2 Categorical and Numerical Variable Analysis](#sub_section-2.2)
+    * [2.3 Correlation](#sub_section-2.3)
     
  
-* 3. FEATURE ENGINEERING & DATA PRE-PROCESSING
-    * 3.1 Outliers
-    * 3.2 Missing Values
-    * 3.3 Encoding (Label Encoding, One-Hot Encoding)
-    * 3.4 Feature Extraction & Interactions
+* [3. FEATURE ENGINEERING & DATA PRE-PROCESSING](#section-three)
+    * [3.1 Outliers](#sub_section-3.1)
+    * [3.2 Missing Values](#sub_section-3.2)
+    * [3.3 Encoding (Label Encoding, One-Hot Encoding)](#sub_section-3.3)
+    * [3.4 Feature Extraction & Interactions](#sub_section-3.4)
       
     
-* 4. MODEL & PREDICTION
-    * 4.1 Base Model)
-    * 4.2 Model with Feature Engineering
+* [4. MODEL & PREDICTION](#section-four)
+    * [4.1 Base Model](#sub_section-4.1)
+    * [4.2 Model with Feature Engineering](#sub_section-4.2)
+
