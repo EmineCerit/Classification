@@ -3,7 +3,7 @@
 **<span style="color:crimson;">Business Problem**
     
 Churn prediction means detecting which customers are likely to leave a service or stop using a product. It is a critical prediction for many businesses because acquiring new clients often costs more than retaining existing ones.  
-We need to know: “Is this customer going to leave us within X months?” Yes or No? It is a binary classification task.
+We need to know: “Is this customer going to leave?” Yes or No? It is a binary classification task.
 
 ![image](https://user-images.githubusercontent.com/83332641/230767917-ffd3edc9-7489-454d-90a9-6bf5a22a103f.png)
     
